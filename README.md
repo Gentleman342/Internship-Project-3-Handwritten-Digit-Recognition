@@ -1,2 +1,2 @@
-# Internship-Project-3-Handwritten-Digit-Recognition
+# Project Name :- Handwritten-Digit-Recognition
 In this project, a Convolutional Neural Network (CNN) was developed for Handwritten Digit Recognition using the MNIST dataset. The model achieved an impressive accuracy of 99.30%, showcasing its effectiveness in accurately classifying digits (0-9). Leveraging CNN architecture for feature extraction and classification, the project involved training on a normalized and augmented dataset. Evaluation on a separate test set, along with visualizations like confusion matrices, provided insights into the model's performance. Future enhancements may include deployment for real-time recognition and exploration of multiclass recognition beyond digits.
